@@ -1,5 +1,5 @@
 import streamlit as st
-# streamlit run calculator.py, - run is terminal
+# streamlit run calculator.py, this commanad for when ths dic is root dic
 
 st.title('sample calculator')
 
