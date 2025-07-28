@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 import seaborn as sns
 
-st.markdown("<h1 style='color:cyan; border-color:white; border: 5px solid white'>Titanic Dashboard</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='color:cyan;'>Titanic Dashboard</h1>", unsafe_allow_html=True)
 st.write('This is a Dashboard for analysing the titanic datset')
 
 df = sns.load_dataset('titanic')
